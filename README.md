@@ -4,7 +4,7 @@
 
 ## Project Description
 
-Binary Boom Social is a fullstack social media app where users can share images of pictures. This was a debugging exercise on a codebase that was created in 2021. I created a feature to add comments to posts.
+Binary Boom Social is a fullstack social media app where users can share images of pictures. This was a debugging exercise on a codebase that was created in 2021. I created a feature to add comments to posts and restyled the application. 
 
 ### How It's Made:
 
@@ -27,7 +27,7 @@ Binary Boom Social is a fullstack social media app where users can share images 
 # Things to add
 
 - Create a `.env` file in config folder and add the following as `key = value`
-  - PORT = 2121 (can be any port example: 3000)
+  - PORT = 3000
   - DB_STRING = `your database URI`
   - CLOUD_NAME = `your cloudinary cloud name`
   - API_KEY = `your cloudinary api key`
@@ -45,6 +45,6 @@ Binary Boom Social is a fullstack social media app where users can share images 
 
 ### Application Interface
 
-![Application interface](OpenMicScreenshot.png)
-![Application interface](OpenMicScreenshot(2).png)
+![Application interface](OctothropeScreenshot.png)
+
 

@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(241, 255, 192);
+    font-family: "Oswald", Arial, Helvetica, sans-serif;
+}
+
+.btn-primary{
+    background-color: rgb(51, 151, 51);
+}
+
+#home{
+    height: 15em;
+    width: 20em;
+}
