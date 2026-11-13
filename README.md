@@ -1,6 +1,26 @@
-# Install
 
-`npm install`
+
+# Binary Boom Social
+
+## Project Description
+
+Binary Boom Social is a fullstack social media app where users can share images of pictures. This was a debugging exercise on a codebase that was created in 2021. I created a feature to add comments to posts.
+
+### How It's Made:
+
+* HTML & CSS – Structure and styling
+* JavaScript – Front-end and back-end functionality
+* Node.js – Server-side JavaScript
+* Express.js – Routes and handling requests
+* MongoDB – Storing user accounts and saved pins
+* EJS – Displaying dynamic content
+* Passport.js – User authentication
+
+## Installation
+
+1. Clone repo
+2. run `npm install`
+
 
 ---
 
@@ -15,6 +35,16 @@
 
 ---
 
-# Run
+## Usage
 
-`npm start`
+1. run `npm run start`
+2. Navigate to `localhost:3000
+
+## Screenshots and Demo
+
+
+### Application Interface
+
+![Application interface](OpenMicScreenshot.png)
+![Application interface](OpenMicScreenshot(2).png)
+
