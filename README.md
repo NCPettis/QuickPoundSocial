@@ -1,10 +1,10 @@
 
 
-# Binary Boom Social
+# Octothrope Social
 
 ## Project Description
 
-Binary Boom Social is a fullstack social media app where users can share images of pictures. This was a debugging exercise on a codebase that was created in 2021. I created a feature to add comments to posts and restyled the application. 
+Octothrope Social is a rework of Binary Boom Social. This is a fullstack social media app where users can share images of pictures. This project began as a debugging exercise on a codebase that was created in 2021. I created a feature to add comments to posts and re-styled the application. 
 
 ### How It's Made:
 
@@ -41,6 +41,8 @@ Binary Boom Social is a fullstack social media app where users can share images 
 2. Navigate to `localhost:3000
 
 ## Screenshots and Demo
+
+Live Link: https://quickpoundsocial.onrender.com/
 
 
 ### Application Interface
